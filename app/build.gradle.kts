@@ -30,6 +30,21 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+//    sourceSets {
+//        getByName("main") {
+//            jniLibs.srcDirs("libs")
+//            jniLibs.
+//        }
+//        sourceSets {
+//            all {
+//
+//            }
+//        }
+//        sourceSets.all {
+//
+//        }
+//    }
 }
 
 dependencies {
